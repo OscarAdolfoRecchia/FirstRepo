@@ -10,4 +10,16 @@
 
 @implementation MyNewClass
 
+-(void ) myNewProcedure
+{
+    NSLog(@"nuova scrittura");
+    
+    NSLog(@"altra scrittura");
+  
+    
+    
+    
+}
+
+
 @end
