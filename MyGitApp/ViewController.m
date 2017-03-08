@@ -18,6 +18,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+- (IBAction)bottonePremuto:(UIButton *)sender {
+    
+    NSLog(@"bottone premuto");
+}
 
 
 - (void)didReceiveMemoryWarning {
